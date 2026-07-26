@@ -35,6 +35,11 @@ career sites — one normalized schema across all of them.
 | Workable boards | [workable-jobs-scraper](https://apify.com/DevilScrapes/workable-jobs-scraper) |
 | Teamtailor career sites | [teamtailor-jobs-scraper](https://apify.com/DevilScrapes/teamtailor-jobs-scraper) |
 | Greenhouse + Lever + Ashby (one feed) | [multi-ats-jobs-scraper](https://apify.com/DevilScrapes/multi-ats-jobs-scraper) |
+| BambooHR careers sites | [bamboohr-jobs-scraper](https://apify.com/DevilScrapes/bamboohr-jobs-scraper) |
+| Recruitee boards | [recruitee-jobs-scraper](https://apify.com/DevilScrapes/recruitee-jobs-scraper) |
+| Ashby boards (dedicated) | [ashby-jobs-scraper](https://apify.com/DevilScrapes/ashby-jobs-scraper) |
+| Personio careers pages | [personio-jobs-scraper](https://apify.com/DevilScrapes/personio-jobs-scraper) |
+| Breezy HR boards | [breezy-hr-jobs-scraper](https://apify.com/DevilScrapes/breezy-hr-jobs-scraper) |
 
 → Runnable example: [`recipes/jobs_across_ats.py`](recipes/jobs_across_ats.py)
 
