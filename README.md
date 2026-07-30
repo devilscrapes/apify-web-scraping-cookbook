@@ -40,6 +40,9 @@ career sites — one normalized schema across all of them.
 | Ashby boards (dedicated) | [ashby-jobs-scraper](https://apify.com/DevilScrapes/ashby-jobs-scraper) |
 | Personio careers pages | [personio-jobs-scraper](https://apify.com/DevilScrapes/personio-jobs-scraper) |
 | Breezy HR boards | [breezy-hr-jobs-scraper](https://apify.com/DevilScrapes/breezy-hr-jobs-scraper) |
+| Greenhouse boards (dedicated) | [greenhouse-jobs-scraper](https://apify.com/DevilScrapes/greenhouse-jobs-scraper) |
+| Lever boards (dedicated) | [lever-jobs-scraper](https://apify.com/DevilScrapes/lever-jobs-scraper) |
+| RemoteOK remote-jobs feed | [remoteok-jobs-scraper](https://apify.com/DevilScrapes/remoteok-jobs-scraper) |
 
 → Runnable example: [`recipes/jobs_across_ats.py`](recipes/jobs_across_ats.py)
 
@@ -56,6 +59,12 @@ career sites — one normalized schema across all of them.
 | Mercari US sold/completed listings | [mercari-sold-listings](https://apify.com/DevilScrapes/mercari-sold-listings) |
 | Gumroad products & storefronts | [gumroad-product-scraper](https://apify.com/DevilScrapes/gumroad-product-scraper) |
 | Goodreads books & reviews | [goodreads-book-reviews-scraper](https://apify.com/DevilScrapes/goodreads-book-reviews-scraper) |
+| Vinted active listings (price/condition) | [vinted-listings-scraper](https://apify.com/DevilScrapes/vinted-listings-scraper) |
+
+### Social & OSINT
+| Recipe | Actor |
+|---|---|
+| Telegram public channel post history | [telegram-channel-scraper](https://apify.com/DevilScrapes/telegram-channel-scraper) |
 
 ### Events
 | Recipe | Actor |
@@ -93,3 +102,4 @@ Missing a target? Open an issue here and we'll look at building it.
 ## License
 
 MIT — the recipes in this repo are yours to copy and adapt.
+
