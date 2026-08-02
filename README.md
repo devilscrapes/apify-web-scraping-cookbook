@@ -43,6 +43,7 @@ career sites — one normalized schema across all of them.
 | Greenhouse boards (dedicated) | [greenhouse-jobs-scraper](https://apify.com/DevilScrapes/greenhouse-jobs-scraper) |
 | Lever boards (dedicated) | [lever-jobs-scraper](https://apify.com/DevilScrapes/lever-jobs-scraper) |
 | RemoteOK remote-jobs feed | [remoteok-jobs-scraper](https://apify.com/DevilScrapes/remoteok-jobs-scraper) |
+| Dice.com tech-job postings by keyword/skill | [dice-tech-jobs-scraper](https://apify.com/DevilScrapes/dice-tech-jobs-scraper) |
 
 → Runnable example: [`recipes/jobs_across_ats.py`](recipes/jobs_across_ats.py)
 
@@ -102,4 +103,3 @@ Missing a target? Open an issue here and we'll look at building it.
 ## License
 
 MIT — the recipes in this repo are yours to copy and adapt.
-
